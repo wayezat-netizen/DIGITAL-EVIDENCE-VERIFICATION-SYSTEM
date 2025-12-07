@@ -1,3 +1,0 @@
-﻿  PriorityQueue.cpp
-C:\Users\Wayez\source\repos\DIGITAL EVIDENCE VERIFICATION SYSTEM\PriorityQueue.cpp(62,19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-  DIGITAL EVIDENCE VERIFICATION SYSTEM.vcxproj -> C:\Users\Wayez\source\repos\DIGITAL EVIDENCE VERIFICATION SYSTEM\x64\Debug\DIGITAL EVIDENCE VERIFICATION SYSTEM.exe
